@@ -9,7 +9,7 @@ Repositori ini menyediakan deskripsi dan klasifikasi dari fungsi-fungsi umum dal
 </b>
 ---
 
-## NLP Function Descriptions and Classifications
+## Analisis
 
 ### 1. Zero Shot Classification
 Zero shot classification adalah sebuah fungsi yang bisa digunakan untuk mendeteksi sebuah kalimat berdasarkan beberapa label dan memberi berapa besar korelasi kalimat tersebut dengan label-label yang telah kita buat. Berdasarkan tugas umum dari NLP, maka zero shot classification masuk ke dalam klasifikasi seluruh kalimat, yang artinya seluruh kalimat diklasifikasikan sesuai dengan label yang telah dibuat.
