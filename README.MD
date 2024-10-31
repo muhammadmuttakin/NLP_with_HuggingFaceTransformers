@@ -1,9 +1,12 @@
 # Natural Language Processing (NLP) Functions
 
-![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-This repository provides descriptions and classifications of common NLP functions. Each function is described according to its use and general classification within NLP tasks.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Logo"/>
+</p>
+<b>
+Repositori ini menyediakan deskripsi dan klasifikasi dari fungsi-fungsi umum dalam Pemrosesan Bahasa Alami (NLP). Setiap fungsi dijelaskan berdasarkan kegunaannya dan klasifikasi umum dalam tugas-tugas NLP.
+</b>
 ---
 
 ## NLP Function Descriptions and Classifications
