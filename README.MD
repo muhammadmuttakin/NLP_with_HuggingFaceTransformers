@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP) Functions
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 This repository provides descriptions and classifications of common NLP functions. Each function is described according to its use and general classification within NLP tasks.
 
