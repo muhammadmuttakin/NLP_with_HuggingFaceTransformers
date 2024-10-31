@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) Functions
+# Natural Language Processing (NLP) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/>
@@ -9,7 +9,7 @@ Repositori ini menyediakan deskripsi dan klasifikasi dari fungsi-fungsi umum dal
 </b>
 ---
 
-## Analisis
+## 📈 Analisis NLP
 
 ### 1. Zero Shot Classification
 Zero shot classification adalah sebuah fungsi yang bisa digunakan untuk mendeteksi sebuah kalimat berdasarkan beberapa label dan memberi berapa besar korelasi kalimat tersebut dengan label-label yang telah kita buat. Berdasarkan tugas umum dari NLP, maka zero shot classification masuk ke dalam klasifikasi seluruh kalimat, yang artinya seluruh kalimat diklasifikasikan sesuai dengan label yang telah dibuat.
