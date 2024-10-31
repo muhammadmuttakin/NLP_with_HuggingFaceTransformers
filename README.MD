@@ -1,12 +1,12 @@
-# Natural Language Processing (NLP) 
+# NLP With HuggingFace Transformers
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Logo"/>
 </p>
 <b>
-Repositori ini menyediakan deskripsi dan klasifikasi dari fungsi-fungsi umum dalam Pemrosesan Bahasa Alami (NLP). Setiap fungsi dijelaskan berdasarkan kegunaannya dan klasifikasi umum dalam tugas-tugas NLP.
-</b>
+Pipeline dari HuggingFace Transformers untuk keperluan NLP (Natural Language Processing) yaitu zero shot classification, text generation, fill mask, named entity recognition, question answering, sentiment analysis, summarization, dan translation
+</bi
 ---
 
 ## 📈 Analisis NLP
