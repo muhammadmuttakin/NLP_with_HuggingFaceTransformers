@@ -6,7 +6,7 @@
 </p>
 <b>
 Pipeline dari HuggingFace Transformers untuk keperluan NLP (Natural Language Processing) yaitu zero shot classification, text generation, fill mask, named entity recognition, question answering, sentiment analysis, summarization, dan translation
-</bi
+</b>
 ---
 
 ## 📈 Analisis NLP
